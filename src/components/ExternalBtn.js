@@ -11,7 +11,6 @@ const ExternalBtn = ({ externalLink, btnLabel }) => {
       href={externalLink}
       target={'_blank'}
       borderRadius='0'
-      m='-0.3px'
     >
       {btnLabel}
     </Button>
